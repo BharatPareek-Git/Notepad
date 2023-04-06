@@ -1,6 +1,6 @@
 # Java Swing Notepad Project
 
-## This is a simple Notepad application created using Java Swing. It allows users to create, save, open, edit text files and also change background and foreground color. This project can be used as a starting point for building more complex text editors or other Java Swing applications.
+### This is a simple Notepad application created using Java Swing. It allows users to create, save, open, edit text files and also change background and foreground color. This project can be used as a starting point for building more complex text editors or other Java Swing applications.
 
 ### Features
 Create new text files (new)
